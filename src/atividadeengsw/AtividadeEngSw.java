@@ -37,6 +37,18 @@ public class AtividadeEngSw {
     public static float soma(int a, float b) {
         return a + b;
     }
+    
+    private String Aramo4;
+
+    public String getAramo4() {
+        return Aramo4;
+    }
+
+    public void setAramo4(String Aramo4) {
+        this.Aramo4 = Aramo4;
+    }
+
+    
     public void main(String[] args) {
         A1 = 2;
         A2 = 3;
