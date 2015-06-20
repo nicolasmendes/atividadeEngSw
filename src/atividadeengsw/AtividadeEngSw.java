@@ -8,7 +8,7 @@ public class AtividadeEngSw {
     private float A2;
     
     private String A3;
-
+int pqp;
     public String getA3() {
         return A3;
     }
